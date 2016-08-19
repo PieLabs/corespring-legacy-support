@@ -1,0 +1,8 @@
+{
+  "name" : "corespring-legacy-support",
+  "version" : "1.0.0",
+  "main" : "index.js",
+  "dependencies": {
+     "pie-container" : "git@github.com:PieLabs/pie-container.git" 
+  }
+}
